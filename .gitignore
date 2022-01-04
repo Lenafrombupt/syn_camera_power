@@ -1,0 +1,10 @@
+.spyproject*
+.spyproject/*
+*__pycache__*
+__pycache__*
+*__pycache__/*
+**/*.pyc
+__pycache__/
+*/__pycache__/
+*.pyc
+ongpym/config.py
